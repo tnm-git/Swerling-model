@@ -1,6 +1,6 @@
 # Swerling-model
 FPGA-model for generate echo-signals from fluctuating targets
-Vivado Design Suite 2016.4
+in Vivado Design Suite 2016.4
 # Files:
 - mat/rom_coe_gen.m - MATLAB file for generate ROM coefficients
 - mat/read_noise.m - MATLAB file for reading and analisys of generated echo-signals

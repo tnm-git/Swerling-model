@@ -9,3 +9,4 @@ in Vivado Design Suite 2016.4
 - swerling_model_rom.xpr - project
 - swerling_model_rom.srcs/sources_1/new/swerling_model_rom.vhd - vhdl source file
 - swerling_model_rom.srcs/sources_1/new/swerling_model_rom_tb.vhd - vhdl testbench file
+Paper https://yadi.sk/d/_myRHwXUYjA4ag 

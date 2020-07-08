@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Wed Nov 06 21:47:37 2019
+# Process ID: 11660
+# Current directory: C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.runs/synth_1
+# Command line: vivado.exe -log swerling_model_rom.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source swerling_model_rom.tcl
+# Log file: C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.runs/synth_1/swerling_model_rom.vds
+# Journal file: C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source swerling_model_rom.tcl -notrace

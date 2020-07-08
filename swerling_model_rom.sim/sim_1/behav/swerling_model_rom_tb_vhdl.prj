@@ -1,0 +1,19 @@
+# compile vhdl design source files
+vhdl xbip_utils_v3_0_7  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd"
+vhdl c_reg_fd_v12_0_3  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/c_reg_fd_v12_0_vh_rfs.vhd"
+vhdl xbip_dsp48_wrapper_v3_0_4  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/xbip_dsp48_wrapper_v3_0_vh_rfs.vhd"
+vhdl xbip_pipe_v3_0_3  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/xbip_pipe_v3_0_vh_rfs.vhd"
+vhdl xbip_dsp48_addsub_v3_0_3  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/xbip_dsp48_addsub_v3_0_vh_rfs.vhd"
+vhdl xbip_addsub_v3_0_3  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/xbip_addsub_v3_0_vh_rfs.vhd"
+vhdl c_addsub_v12_0_10  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/c_addsub_v12_0_vh_rfs.vhd"
+vhdl xbip_bram18k_v3_0_3  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/xbip_bram18k_v3_0_vh_rfs.vhd"
+vhdl mult_gen_v12_0_12  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/mult_gen_v12_0_vh_rfs.vhd"
+vhdl axi_utils_v2_0_3  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/axi_utils_v2_0_vh_rfs.vhd"
+vhdl cordic_v6_0_11  "../../../swerling_model_rom.ip_user_files/ipstatic/hdl/cordic_v6_0_vh_rfs.vhd"
+vhdl xil_defaultlib  "../../../swerling_model_rom.srcs/sources_1/ip/square_root/sim/square_root.vhd"
+vhdl xil_defaultlib  "../../../swerling_model_rom.srcs/sources_1/ip/log_fun_65536x16/log_fun_65536x16_sim_netlist.vhdl"
+vhdl xil_defaultlib  "../../../swerling_model_rom.srcs/sources_1/new/swerling_model_rom.vhd"
+vhdl xil_defaultlib  "../../../swerling_model_rom.srcs/sources_1/new/swerling_model_rom_tb.vhd"
+
+# Do not sort compile order
+nosort

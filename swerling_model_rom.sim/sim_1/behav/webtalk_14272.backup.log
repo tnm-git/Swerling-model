@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Wed Nov 06 20:15:03 2019
+# Process ID: 14272
+# Current directory: C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.sim/sim_1/behav/xsim.dir/swerling_model_rom_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.sim/sim_1/behav/xsim.dir/swerling_model_rom_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Wed Nov 06 20:15:05 2019...

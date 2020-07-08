@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="log_fun_65536x16_synth_1" LaunchDir="C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.runs/log_fun_65536x16_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="square_root_synth_1" LaunchDir="C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.runs/square_root_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="log_fun_65536x16_synth_1"/>
+		<Parent Id="square_root_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="C:/Xilinx/Projects/swerling_model_rom/swerling_model_rom.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="route_design">
+		<Parent Id="synth_1"/>
+		<Parent Id="log_fun_65536x16_synth_1"/>
+		<Parent Id="square_root_synth_1"/>
+	</Run>
+</Runs>
+

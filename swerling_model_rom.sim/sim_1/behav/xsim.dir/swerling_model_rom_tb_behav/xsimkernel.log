@@ -1,0 +1,7 @@
+Running: xsim.dir/swerling_model_rom_tb_behav/xsimk.exe -simmode gui -wdb swerling_model_rom_tb_behav.wdb -simrunnum 0 -socket 65022
+Design successfully loaded
+Design Loading Memory Usage: 23960 KB (Peak: 23960 KB)
+Design Loading CPU Usage: 218 ms
+Simulation completed
+Simulation Memory Usage: 27036 KB (Peak: 27036 KB)
+Simulation CPU Usage: 1702 ms

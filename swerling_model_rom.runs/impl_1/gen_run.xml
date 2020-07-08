@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-3" LaunchTime="1573058853">
+  <File Type="PWROPT-DRC" Name="swerling_model_rom_drc_pwropted.rpt"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="swerling_model_rom_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="swerling_model_rom_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="swerling_model_rom_power_routed.rpx"/>
+  <File Type="PA-TCL" Name="swerling_model_rom.tcl"/>
+  <File Type="OPT-HWDEF" Name="swerling_model_rom.hwdef"/>
+  <File Type="RDI-RDI" Name="swerling_model_rom.vdi"/>
+  <File Type="OPT-DCP" Name="swerling_model_rom_opt.dcp"/>
+  <File Type="OPT-DRC" Name="swerling_model_rom_drc_opted.rpt"/>
+  <File Type="OPT-TIMING" Name="swerling_model_rom_timing_summary_opted.rpt"/>
+  <File Type="PWROPT-DCP" Name="swerling_model_rom_pwropt.dcp"/>
+  <File Type="PWROPT-TIMING" Name="swerling_model_rom_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="swerling_model_rom_placed.dcp"/>
+  <File Type="PLACE-IO" Name="swerling_model_rom_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="swerling_model_rom_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="swerling_model_rom_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="swerling_model_rom_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="swerling_model_rom_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="swerling_model_rom_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="swerling_model_rom_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="swerling_model_rom_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="swerling_model_rom_postplace_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="swerling_model_rom_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="swerling_model_rom_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="swerling_model_rom_drc_physopted.rpt"/>
+  <File Type="PHYSOPT-TIMING" Name="swerling_model_rom_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="swerling_model_rom_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="swerling_model_rom_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="swerling_model_rom_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="swerling_model_rom_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="swerling_model_rom_drc_routed.pb"/>
+  <File Type="BG-BIN" Name="swerling_model_rom.bin"/>
+  <File Type="ROUTE-DRC-RPX" Name="swerling_model_rom_drc_routed.rpx"/>
+  <File Type="BG-DRC" Name="swerling_model_rom.drc"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="swerling_model_rom_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MSK" Name="swerling_model_rom.msk"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="swerling_model_rom_methodology_drc_routed.rpx"/>
+  <File Type="BG-BGN" Name="swerling_model_rom.bgn"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="swerling_model_rom_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="swerling_model_rom_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="swerling_model_rom_power_summary_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="swerling_model_rom_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="swerling_model_rom_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="swerling_model_rom_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="swerling_model_rom_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="swerling_model_rom_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="swerling_model_rom_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="swerling_model_rom_clock_utilization_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="swerling_model_rom_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="swerling_model_rom_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="swerling_model_rom_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="swerling_model_rom_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="swerling_model_rom_timing_summary_postroute_physopted.rpx"/>
+  <File Type="BG-BIT" Name="swerling_model_rom.bit"/>
+  <File Type="BITSTR-RBT" Name="swerling_model_rom.rbt"/>
+  <File Type="BITSTR-NKY" Name="swerling_model_rom.nky"/>
+  <File Type="BITSTR-BMM" Name="swerling_model_rom_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="swerling_model_rom.mmi"/>
+  <File Type="BITSTR-SYSDEF" Name="swerling_model_rom.sysdef"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/swerling_model_rom.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/swerling_model_rom_tb.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/mat/hcoe.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="swerling_model_rom"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2016"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="log_fun_65536x16"/>
+  <BlockFileSet Type="BlockSrcs" Name="square_root"/>
+</GenRun>
